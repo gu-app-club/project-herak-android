@@ -1,4 +1,4 @@
-package herak.gumad.club.project_herak_android;
+package club.gumad.herak;
 
 import org.junit.Test;
 
